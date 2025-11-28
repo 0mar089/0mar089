@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I'm a network engineering student.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Docker**
 
 <h3 align="left">Languages and Tools:</h3>
 
